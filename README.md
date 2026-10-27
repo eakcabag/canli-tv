@@ -12,9 +12,9 @@ Kumanda ile kolay yazabilmeniz için hem **kısa linkler** hem de doğrudan **Gi
 
 | Liste Türü | Kısa TV Linki (Kumanda için) | Doğrudan GitHub Raw URL | Kanal Sayısı |
 | :--- | :--- | :--- | :--- |
-| 🌟 **Tüm Kanallar (VIP)** | `https://tinyurl.com/eacanlitv` | `https://raw.githubusercontent.com/eakcabag/canli-tv/main/tv.m3u` | ~130 Kanal |
-| ⚽ **Sadece VIP Spor** | `https://tinyurl.com/eacaspor` | `https://raw.githubusercontent.com/eakcabag/canli-tv/main/spor.m3u` | ~53 Kanal |
-| 🇹🇷 **Ulusal & Haber** | `https://tinyurl.com/eaulusal` | `https://raw.githubusercontent.com/eakcabag/canli-tv/main/ulusal.m3u` | ~74 Kanal |
+| 🌟 **Tüm Kanallar (VIP)** | `https://tinyurl.com/27e82c3d` | `https://raw.githubusercontent.com/eakcabag/canli-tv/main/tv.m3u` | ~130 Kanal |
+| ⚽ **Sadece VIP Spor** | `https://tinyurl.com/2bfwuqjm` | `https://raw.githubusercontent.com/eakcabag/canli-tv/main/spor.m3u` | ~53 Kanal |
+| 🇹🇷 **Ulusal & Haber** | `https://tinyurl.com/24klajrm` | `https://raw.githubusercontent.com/eakcabag/canli-tv/main/ulusal.m3u` | ~74 Kanal |
 
 ---
 
@@ -30,7 +30,7 @@ Kumanda ile kolay yazabilmeniz için hem **kısa linkler** hem de doğrudan **Gi
 2. **"Çalma Listesi Ekle"** veya **"Add M3U Playlist"** seçeneğini seçin.
 3. Çalma listesi URL'si kısmına yukarıdaki **Kısa TV Linki**'ni girin:
    ```text
-   https://tinyurl.com/eacanlitv
+   https://tinyurl.com/27e82c3d
    ```
 4. Çalma listesini kaydedin. Uygulamanız tüm kanalları logoları ve kategorileriyle birlikte anında yükleyecektir!
 
