@@ -3,9 +3,6 @@
 #EXTINF:-1 tvg-id="TV360.tr" tvg-name="360 TV" tvg-logo="https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tv360.png" group-title="🇹🇷 ULUSAL KANALLAR",360 TV HD
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 
-#EXTINF:-1 tvg-id="A2.tr" tvg-name="A2 TV" tvg-logo="https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/a2.png" group-title="🇹🇷 ULUSAL KANALLAR",A2 TV HD
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
-
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/atv.png" group-title="🇹🇷 ULUSAL KANALLAR",ATV HD
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 
