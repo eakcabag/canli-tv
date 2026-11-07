@@ -43,6 +43,8 @@ TABII_OFFICIAL = {
 }
 
 def check_stream(url, timeout=3.5):
+    if not url or "youtube.com" in url or "youtu.be" in url:
+        return False
     try:
         req = urllib.request.Request(
             url,
@@ -52,7 +54,12 @@ def check_stream(url, timeout=3.5):
             }
         )
         with urllib.request.urlopen(req, timeout=timeout) as resp:
-            return resp.status in (200, 301, 302)
+            if resp.status in (200, 301, 302):
+                chunk = resp.read(512).decode("utf-8", errors="ignore")
+                if "<html" in chunk.lower() or "<!doctype html" in chunk.lower():
+                    return False
+                return True
+            return False
     except Exception:
         return False
 

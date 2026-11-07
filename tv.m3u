@@ -128,7 +128,7 @@ https://nW5mR1vL9xP4zK2sH7tQ3gJ6b.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TabiiSpor7.tr" tvg-name="Tabii Spor 7" tvg-logo="https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tabiispor.png" tvg-backup="https://Pz2rT7nW1mR9sH4vL6xK3gJ5b.medya.trt.com.tr/master.m3u8" group-title="🇹🇷 SPOR KANALLARI",Tabii Spor 7 HD
 https://Pz2rT7nW1mR9sH4vL6xK3gJ5b.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="TabiiSpor8.tr" tvg-name="Tabii Spor 8" tvg-logo="https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tabiispor.png" tvg-backup="https://andro.evrenesoglu101.click/checklist/androstreamlivetb8.m3u8" group-title="🇹🇷 SPOR KANALLARI",Tabii Spor 8 HD
+#EXTINF:-1 tvg-id="TabiiSpor8.tr" tvg-name="Tabii Spor 8" tvg-logo="https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tabiispor.png" tvg-backup="https://vL9nQ2sH5tW1mR7xP4zK8gJ3k.medya.trt.com.tr/master.m3u8" group-title="🇹🇷 SPOR KANALLARI",Tabii Spor 8 HD
 https://vL9nQ2sH5tW1mR7xP4zK8gJ3k.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="TabiiSpor.tr" tvg-name="Tabii Spor" tvg-logo="https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tabiispor.png" tvg-backup="https://kL9mR2vXw7nQ5pY1sH4tJ3gB6.medya.trt.com.tr/master.m3u8" group-title="🇹🇷 SPOR KANALLARI",Tabii Spor HD
@@ -295,9 +295,6 @@ https://tv-trthaber.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="TV100.tr" tvg-name="TV100" tvg-logo="https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tv100.png" group-title="🇹🇷 HABER KANALLARI",TV100 HD
 https://tv.ensonhaber.com/tv100/tv100.m3u8
-
-#EXTINF:-1 tvg-id="Tele1.tr" tvg-name="Tele 1" tvg-logo="https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tele1.png" group-title="🇹🇷 HABER KANALLARI",Tele 1 HD
-https://www.youtube.com/watch?v=3WmXwAaa1VQ
 
 #EXTINF:-1 tvg-id="UlkeTV.tr" tvg-name="Ülke TV" tvg-logo="https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ulketv.png" group-title="🇹🇷 HABER KANALLARI",Ülke TV HD
 https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8
