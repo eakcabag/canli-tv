@@ -125,9 +125,6 @@ https://vL2nQ8sH4tW1mR7xP5zK9gJ3y.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TabiiSpor6.tr" tvg-name="Tabii Spor 6" tvg-logo="https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tabiispor.png" tvg-backup="https://nW5mR1vL9xP4zK2sH7tQ3gJ6b.medya.trt.com.tr/master.m3u8" group-title="🇹🇷 SPOR KANALLARI",Tabii Spor 6 HD
 https://nW5mR1vL9xP4zK2sH7tQ3gJ6b.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="TabiiSpor7.tr" tvg-name="Tabii Spor 7" tvg-logo="https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tabiispor.png" tvg-backup="https://Pz2rT7nW1mR9sH4vL6xK3gJ5b.medya.trt.com.tr/master.m3u8" group-title="🇹🇷 SPOR KANALLARI",Tabii Spor 7 HD
-https://Pz2rT7nW1mR9sH4vL6xK3gJ5b.medya.trt.com.tr/master.m3u8
-
 #EXTINF:-1 tvg-id="TabiiSpor8.tr" tvg-name="Tabii Spor 8" tvg-logo="https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tabiispor.png" tvg-backup="https://vL9nQ2sH5tW1mR7xP4zK8gJ3k.medya.trt.com.tr/master.m3u8" group-title="🇹🇷 SPOR KANALLARI",Tabii Spor 8 HD
 https://vL9nQ2sH5tW1mR7xP4zK8gJ3k.medya.trt.com.tr/master.m3u8
 
@@ -376,9 +373,6 @@ http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ShowMax.tr" tvg-name="Show Max" tvg-logo="https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/showmax.png" group-title="🇹🇷 MÜZİK & EĞLENCE",Show Max
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8
-
-#EXTINF:-1 tvg-id="TMBTV.tr" tvg-name="TMB TV" tvg-logo="https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tmbtv.png" group-title="🇹🇷 MÜZİK & EĞLENCE",TMB TV HD
-https://str.yodacdn.net/tmb_tr_app/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-name="TRT Müzik" tvg-logo="https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtmuzik.png" group-title="🇹🇷 MÜZİK & EĞLENCE",TRT Müzik HD
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8

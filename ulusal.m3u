@@ -219,9 +219,6 @@ http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ShowMax.tr" tvg-name="Show Max" tvg-logo="https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/showmax.png" group-title="🇹🇷 MÜZİK & EĞLENCE",Show Max
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8
 
-#EXTINF:-1 tvg-id="TMBTV.tr" tvg-name="TMB TV" tvg-logo="https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tmbtv.png" group-title="🇹🇷 MÜZİK & EĞLENCE",TMB TV HD
-https://str.yodacdn.net/tmb_tr_app/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-name="TRT Müzik" tvg-logo="https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtmuzik.png" group-title="🇹🇷 MÜZİK & EĞLENCE",TRT Müzik HD
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 
