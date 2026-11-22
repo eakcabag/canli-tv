@@ -1,0 +1,40 @@
+#EXTM3U
+# base-2.apk / e-droid config'ten uretildi
+# Kaynak: config.e-droid.net
+
+#EXTINF:-1 tvg-id="si-ne-mv" tvg-name="SİNE MV" tvg-lang="tr" group-title="SİNEMA TV",SİNE MV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.14 (Linux;Android 10) ExoPlayerLib/1.5.11
+https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="si-ne-fx" tvg-name="SİNE FX" tvg-lang="tr" group-title="SİNEMA TV",SİNE FX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://saran-live.ercdn.net/fx/index.m3u8?st=uo_tiDvIzeRrTIyZ402B9g&e=1738278432
+
+#EXTINF:-1 tvg-id="loca-1" tvg-name="LOCA-1" tvg-lang="tr" group-title="SİNEMA TV",LOCA-1
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 16)
+https://v2.catcast.tv/content/50960/seg-27708705-v1-a1/index.m3u8
+
+#EXTINF:-1 tvg-id="loca-2" tvg-name="LOCA-2" tvg-lang="tr" group-title="SİNEMA TV",LOCA-2
+#EXTVLCOPT:http-user-agent=kanal.f/9.8 (Linux;Android 16) AndroidXMedia3/1.1.1
+https://a8.radyotelekom.com.tr:3232/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="loca-s" tvg-name="LOCA-S" tvg-lang="tr" group-title="SİNEMA TV",LOCA-S
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 17)
+https://v2.catcast.tv/content/50953/seg-27708705-v1-a1/index.m3u8
+
+#EXTINF:-1 tvg-id="si-ne-pf" tvg-name="SİNE PF" tvg-lang="tr" group-title="SİNEMA TV",SİNE PF
+#EXTVLCOPT:http-user-agent=googleusercontent
+https://yayin.venomlink.com/live/mystream/index.m3u8
+
+#EXTINF:-1 tvg-id="si-ne-pf" tvg-name="SİNE PF" tvg-lang="tr" group-title="SİNEMA TV",SİNE PF
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 17)
+https://v2.catcast.tv/content/50732/seg-27708705-v1-a1/index.m3u8
+
+#EXTINF:-1 tvg-id="si-ne-a1" tvg-name="SİNE A1" tvg-lang="tr" group-title="SİNEMA TV",SİNE A1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows Phone 10.0; Android 4.2.1; Xbox; Xbox One) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Mobile Safari/537.36 Edge/13.10586
+https://blcco.linkip.org/live/550_.m3u8
+
+#EXTINF:-1 tvg-id="si-ne-a2" tvg-name="SİNE A2" tvg-lang="tr" group-title="SİNEMA TV",SİNE A2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows Phone 10.0; Android 4.2.1; Xbox; Xbox One) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Mobile Safari/537.36 Edge/13.10586
+https://ulduztv.dunyanin-yabancisi.workers.dev/live.m3u8
+

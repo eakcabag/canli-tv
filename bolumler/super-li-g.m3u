@@ -1,0 +1,60 @@
+#EXTM3U
+# base-2.apk / e-droid config'ten uretildi
+# Kaynak: config.e-droid.net
+
+#EXTINF:-1 tvg-id="mac-saati-vp" tvg-name="MAC-SAATİ VP" tvg-lang="tr" group-title="SÜPER LİG",MAC-SAATİ VP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams3/bein-sports-1.m3u8
+
+#EXTINF:-1 tvg-id="mac-saati-vp" tvg-name="MAC SAATİ VP" tvg-lang="tr" group-title="SÜPER LİG",MAC SAATİ VP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/trbeinsports1.m3u8
+
+#EXTINF:-1 tvg-id="mac-saati-vp" tvg-name="MAC SAATİ VP" tvg-lang="tr" group-title="SÜPER LİG",MAC SAATİ VP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/79.0
+https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams2/stream_androstreamlivebs1.m3u8
+
+#EXTINF:-1 tvg-id="bei-nsport4" tvg-name="BEİNSPORT4" tvg-lang="tr" group-title="SÜPER LİG",BEİNSPORT4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/79.0
+https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams2/stream_androstreamlivebs4.m3u8
+
+#EXTINF:-1 tvg-id="bei-nmax-1" tvg-name="BEİNMAX 1" tvg-lang="tr" group-title="SÜPER LİG",BEİNMAX 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre
+https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams2/stream_androstreamlivebsm1.m3u8
+
+#EXTINF:-1 tvg-id="ti-vi-bu-spor-1" tvg-name="TİVİBU SPOR 1" tvg-lang="tr" group-title="SÜPER LİG",TİVİBU SPOR 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-G991B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36
+https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams2/stream_androstreamlivets1.m3u8
+
+#EXTINF:-1 tvg-id="spor-tv-hd" tvg-name="SPOR TV HD" tvg-lang="tr" group-title="SÜPER LİG",SPOR TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101
+https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor
+
+#EXTINF:-1 tvg-id="ht-spor" tvg-name="HT SPOR" tvg-lang="tr" group-title="SÜPER LİG",HT SPOR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/27.0 Chrome/125.0.0.0 Mobile Safari/537.36
+https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
+
+#EXTINF:-1 tvg-id="s-sport-2" tvg-name="S SPORT 2" tvg-lang="tr" group-title="SÜPER LİG",S SPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/79.0
+https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams2/stream_androstreamlivess2.m3u8
+
+#EXTINF:-1 tvg-id="smart-spor" tvg-name="SMART SPOR" tvg-lang="tr" group-title="SÜPER LİG",SMART SPOR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/79.0
+https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams2/stream_androstreamlivesm1.m3u8
+
+#EXTINF:-1 tvg-id="tabi-spor" tvg-name="TABİ SPOR" tvg-lang="tr" group-title="SÜPER LİG",TABİ SPOR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre
+http://kl9mr2vxw7nq5py1sh4tj3gb6.medya.trt.com.tr/master_1080p.m3u8
+
+#EXTINF:-1 tvg-id="tabi-spor-1" tvg-name="TABİ SPOR 1" tvg-lang="tr" group-title="SÜPER LİG",TABİ SPOR 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/79.0
+https://pz4qt7nw1mr9sh2vl5xk8jg3y.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="tabi-spor-2" tvg-name="TABİ SPOR 2" tvg-lang="tr" group-title="SÜPER LİG",TABİ SPOR 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)' -H 'Proxy-Connection: Keep-Alive'
+http://mr8bv4kl1nq7sh9tw2xp5zj6g.medya.trt.com.tr/master_1080p.m3u8
+
+#EXTINF:-1 tvg-id="tabi-spor-3" tvg-name="TABİ SPOR 3" tvg-lang="tr" group-title="SÜPER LİG",TABİ SPOR 3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)' -H 'Proxy-Connection: Keep-Alive'
+http://mr4vl7nq2sh9tw5xp1zk3gj8b.medya.trt.com.tr/master_1080p.m3u8
+

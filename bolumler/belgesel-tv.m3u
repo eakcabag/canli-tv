@@ -1,0 +1,36 @@
+#EXTM3U
+# base-2.apk / e-droid config'ten uretildi
+# Kaynak: config.e-droid.net
+
+#EXTINF:-1 tvg-id="discovery-s" tvg-name="Discovery S" tvg-lang="tr" group-title="BELGESEL TV",Discovery S
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 16; SM-S928B Build/BP4A.251205.006)
+https://raw.githubusercontent.com/sunarproje/yt/main/streams/hayvan.m3u8
+
+#EXTINF:-1 tvg-id="tlc-hd" tvg-name="TLC HD" tvg-lang="tr" group-title="BELGESEL TV",TLC HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+https://dogus.daioncdn.net/tlc/tlc.m3u8?app=tlc_web
+
+#EXTINF:-1 tvg-id="dmax-hd" tvg-name="DMAX HD" tvg-lang="tr" group-title="BELGESEL TV",DMAX HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+https://dogus.daioncdn.net/dmax/dmax.m3u8?ce=3&app=5a02c599-d17e-4982-9b04-090934d51af7
+
+#EXTINF:-1 tvg-id="tr-belgsel" tvg-name="TR BELGSEL" tvg-lang="tr" group-title="BELGESEL TV",TR BELGSEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; AndroidTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="tgrt-hd" tvg-name="TGRT HD" tvg-lang="tr" group-title="BELGESEL TV",TGRT HD
+#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 14)
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
+
+#EXTINF:-1 tvg-id="historiy" tvg-name="HISTORIY" tvg-lang="tr" group-title="BELGESEL TV",HISTORIY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/79.0
+https://vizon5.cinemax6.com:3656/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="bbce-hd" tvg-name="BBCE HD" tvg-lang="tr" group-title="BELGESEL TV",BBCE HD
+#EXTVLCOPT:http-user-agent=SSUserAgent
+https://one.st23.lol/hls/bbc/index.m3u8
+
+#EXTINF:-1 tvg-id="documax" tvg-name="DOCUMAX" tvg-lang="tr" group-title="BELGESEL TV",DOCUMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/24.0 Chrome/117.0.0.0 Mobile Safari/537.36
+https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8?checkedby:MyWay
+

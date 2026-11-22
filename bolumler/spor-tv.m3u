@@ -1,0 +1,68 @@
+#EXTM3U
+# base-2.apk / e-droid config'ten uretildi
+# Kaynak: config.e-droid.net
+
+#EXTINF:-1 tvg-id="fox-sports-1" tvg-name="FOX-Sports-1" tvg-lang="tr" group-title="SPOR TV",FOX-Sports-1
+#EXTVLCOPT:http-user-agent=double_redirect
+https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-id="eleven-sports-1" tvg-name="Eleven Sports 1" tvg-lang="tr" group-title="SPOR TV",Eleven Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 22101316I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.105 Mobile Safari/537.36
+https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sports-stn" tvg-name="SPORTS STN" tvg-lang="tr" group-title="SPOR TV",SPORTS STN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux+Android+10+M2006C3MG+AppleWebKit/37.36+KHTML+like+Gecko+Chrome/103.0.5060.129+Mobile+Safari/537.36
+https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cbc-sport" tvg-name="CBC Sport" tvg-lang="tr" group-title="SPOR TV",CBC Sport
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://ott.teleport.az/server33/hls/cbc_sport.m3u8?st=AzGSZjk1DpXY1SLc1m4OvA&e=1676581573
+
+#EXTINF:-1 tvg-id="sky-sports-1" tvg-name="Sky-Sports-1" tvg-lang="tr" group-title="SPOR TV",Sky-Sports-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux+Android+10+M2006C3MG+AppleWebKit/37.36+KHTML+like+Gecko+Chrome/103.0.5060.129+Mobile+Safari/537.36
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sky-sports-2" tvg-name="Sky-Sports-2" tvg-lang="tr" group-title="SPOR TV",Sky-Sports-2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36/
+https://iptv.prosto.tv/ch313/video.m3u8
+
+#EXTINF:-1 tvg-id="dubai-sport" tvg-name="DUBAİ Sport" tvg-lang="tr" group-title="SPOR TV",DUBAİ Sport
+#EXTVLCOPT:http-user-agent=SelcukSportsᴴᴰ/12.0 (Linux;Android 9) ExoPlayerLib/2.10.1
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="spor-tv-hd" tvg-name="SPOR TV HD" tvg-lang="tr" group-title="SPOR TV",SPOR TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101
+https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor
+
+#EXTINF:-1 tvg-id="canal-sport" tvg-name="CANAL SPORT" tvg-lang="tr" group-title="SPOR TV",CANAL SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bein-spor-ex" tvg-name="BEIN SPOR EX" tvg-lang="tr" group-title="SPOR TV",BEIN SPOR EX
+#EXTVLCOPT:http-user-agent=SelcukSportsᴴᴰ/12.0 (Linux;Android 9) ExoPlayerLib/2.10.1
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+
+#EXTINF:-1 tvg-id="ht-spor" tvg-name="HT SPOR" tvg-lang="tr" group-title="SPOR TV",HT SPOR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/27.0 Chrome/125.0.0.0 Mobile Safari/537.36
+https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
+
+#EXTINF:-1 tvg-id="sports-stn" tvg-name="SPORTS STN" tvg-lang="tr" group-title="SPOR TV",SPORTS STN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux+Android+10+M2006C3MG+AppleWebKit/37.36+KHTML+like+Gecko+Chrome/103.0.5060.129+Mobile+Safari/537.36
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883039
+
+#EXTINF:-1 tvg-id="tabi-spor" tvg-name="TABİ SPOR" tvg-lang="tr" group-title="SPOR TV",TABİ SPOR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre
+http://kl9mr2vxw7nq5py1sh4tj3gb6.medya.trt.com.tr/master_1080p.m3u8
+
+#EXTINF:-1 tvg-id="tabi-spor-1" tvg-name="TABİ SPOR 1" tvg-lang="tr" group-title="SPOR TV",TABİ SPOR 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/79.0
+https://pz4qt7nw1mr9sh2vl5xk8jg3y.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="tabi-spor-2" tvg-name="TABİ SPOR 2" tvg-lang="tr" group-title="SPOR TV",TABİ SPOR 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)' -H 'Proxy-Connection: Keep-Alive'
+http://mr8bv4kl1nq7sh9tw2xp5zj6g.medya.trt.com.tr/master_1080p.m3u8
+
+#EXTINF:-1 tvg-id="tabi-spor-3" tvg-name="TABİ SPOR 3" tvg-lang="tr" group-title="SPOR TV",TABİ SPOR 3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)' -H 'Proxy-Connection: Keep-Alive'
+http://mr4vl7nq2sh9tw5xp1zk3gj8b.medya.trt.com.tr/master_1080p.m3u8
+

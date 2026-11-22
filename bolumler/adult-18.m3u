@@ -1,0 +1,30 @@
+#EXTM3U
+# base-2.apk / e-droid config'ten uretildi
+# Kaynak: config.e-droid.net
+
+#EXTINF:-1 tvg-id="porn-star-tv" tvg-name="PORN STAR TV" tvg-lang="tr" group-title="ADULT+18",PORN STAR TV
+#EXTVLCOPT:http-user-agent=Toskiplayer/1.5
+http://live.redtraffic.xyz/pov.m3u8
+
+#EXTINF:-1 tvg-id="superone-hd" tvg-name="SUPERONE HD" tvg-lang="tr" group-title="ADULT+18",SUPERONE HD
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.10.1
+http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="supri-z-tv" tvg-name="SüPRİZ TV ?" tvg-lang="tr" group-title="ADULT+18",SüPRİZ TV ?
+#EXTVLCOPT:http-user-agent=iptvcoronakorbuna
+http://live.redtraffic.xyz/bigtits.m3u8
+
+#EXTINF:-1 tvg-id="brazzers-tv" tvg-name="BRAZZERS TV" tvg-lang="tr" group-title="ADULT+18",BRAZZERS TV
+#EXTVLCOPT:http-user-agent=iptvcoronakorbuna
+http://live.redtraffic.xyz/russian.m3u8
+
+#EXTINF:-1 tvg-id="gay-tv" tvg-name="GAY TV." tvg-lang="tr" group-title="ADULT+18",GAY TV.
+http://live.redtraffic.xyz/gay.m3u8
+
+#EXTINF:-1 tvg-id="bsx24-tv" tvg-name="BSX24 TV" tvg-lang="tr" group-title="ADULT+18",BSX24 TV
+http://live.redtraffic.xyz/blowjob.m3u8
+
+#EXTINF:-1 tvg-id="xxx-tv-7-24" tvg-name="XXX TV 7/24" tvg-lang="tr" group-title="ADULT+18",XXX TV 7/24
+#EXTVLCOPT:http-user-agent=iptvcoronakorbuna
+http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+

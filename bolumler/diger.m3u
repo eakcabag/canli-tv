@@ -1,0 +1,12 @@
+#EXTM3U
+# base-2.apk / e-droid config'ten uretildi
+# Kaynak: config.e-droid.net
+
+#EXTINF:-1 tvg-id="tari-h-tv" tvg-name="TARİH TV" tvg-lang="tr" group-title="Diger",TARİH TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/belgesel-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mac-saati-vp" tvg-name="MAC-SAATİ VP." tvg-lang="tr" group-title="Diger",MAC-SAATİ VP.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre
+https://raw.githubusercontent.com/Zankyu1w0/xorak/refs/heads/main/Emu/androstreamlivebiraz1.m3u8
+

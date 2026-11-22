@@ -1,0 +1,32 @@
+#EXTM3U
+# base-2.apk / e-droid config'ten uretildi
+# Kaynak: config.e-droid.net
+
+#EXTINF:-1 tvg-id="kanal" tvg-name="kanal" tvg-lang="tr" group-title="TV+RADYO",kanal
+#EXTVLCOPT:http-user-agent=neo.tv13/9.8 (Linux;Android 16) AndroidXMedia3/1.1.1
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web
+
+#EXTINF:-1 tvg-id="kanal" tvg-name="kanal" tvg-lang="tr" group-title="TV+RADYO",kanal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams2/stream_androstreamliveatv.m3u8
+
+#EXTINF:-1 tvg-id="kanal" tvg-name="kanal" tvg-lang="tr" group-title="TV+RADYO",kanal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=startv_web
+
+#EXTINF:-1 tvg-id="kanal" tvg-name="kanal" tvg-lang="tr" group-title="TV+RADYO",kanal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=7w2388h10gpz&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=2
+
+#EXTINF:-1 tvg-id="kanal" tvg-name="kanal" tvg-lang="tr" group-title="TV+RADYO",kanal
+#EXTVLCOPT:http-user-agent=desk_win32
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+
+#EXTINF:-1 tvg-id="kanal" tvg-name="kanal" tvg-lang="tr" group-title="TV+RADYO",kanal
+#EXTVLCOPT:http-user-agent=VisualOn OSMP+ Player(Linux;Android
+https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="kanal" tvg-name="kanal" tvg-lang="tr" group-title="TV+RADYO",kanal
+#EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
+https://ciner.daioncdn.net/haberturktv/haberturktv_720p.m3u8?sid=79wmhpvmnvxp&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3
+
