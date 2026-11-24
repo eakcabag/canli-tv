@@ -1,40 +1,40 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Discovery wld" http-user-agent="Go-http-client/1.1",Discovery wld
-https://blcco.linkip.org/live/548_.m3u8
-#EXTINF:-1 tvg-name="Discovery wld" http-user-agent="Go-http-client/1.1",Discovery wld
 http://olxi0fko.ukminlt.fun/iptv/hv7ny9rsqchyzk/6861/index.m3u8
-#EXTINF:-1 tvg-name="Viasat Ex" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",Viasat Ex
-https://da9c49fa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/umfrdxrlblrwlxbsx1zpyxnhdev4cgxvcmvfsext/playlist.m3u8
+#EXTINF:-1 tvg-name="Discovery wld" http-user-agent="Go-http-client/1.1",Discovery wld
+https://blcco.linkip.org/live/548_.m3u8
 #EXTINF:-1 tvg-name="Viasat Ex" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",Viasat Ex
 https://da9c49fa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXBsX1ZpYXNhdEV4cGxvcmVfSExT/playlist.m3u8
+#EXTINF:-1 tvg-name="Viasat Ex" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",Viasat Ex
+https://da9c49fa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/umfrdxrlblrwlxbsx1zpyxnhdev4cgxvcmvfsext/playlist.m3u8
 #EXTINF:-1 tvg-name="Discovery S" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 16; SM-S928B Build/BP4A.251205.006)",Discovery S
 https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/siriusnature.m3u8
 #EXTINF:-1 tvg-name="Discovery S" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 16; SM-S928B Build/BP4A.251205.006)",Discovery S
 https://raw.githubusercontent.com/sunarproje/yt/main/streams/hayvan.m3u8
-#EXTINF:-1 tvg-name="NATGEO PPL" http-user-agent="SSUserAgent",NATGEO PPL
+#EXTINF:-1 tvg-name="NATGEO PPL" http-user-agent="VARSports/0.4.2",NATGEO PPL
+https://bc4streamserver.site/natgeo/mono.m3u8
+#EXTINF:-1 tvg-name="NATGEO PPL" http-user-agent="VARSports/0.4.2",NATGEO PPL
 https://romania.1stream.online/o4/national_geographic_hd_tr/mono.m3u8?token=68a7febf0db3ae7b299b10de0e0dbbb3bd42adfc
-#EXTINF:-1 tvg-name="NATGEO PPL" http-user-agent="SSUserAgent",NATGEO PPL
-https://one.st23.lol/hls/natgeo/index.m3u8
-#EXTINF:-1 tvg-name="NATGIO WLD" http-user-agent="SSUserAgent",NATGIO WLD
+#EXTINF:-1 tvg-name="NATGIO WLD" http-user-agent="VARSports/0.4.2",NATGIO WLD
+https://bc4streamserver.site/natgeowild/mono.m3u8
+#EXTINF:-1 tvg-name="NATGIO WLD" http-user-agent="VARSports/0.4.2",NATGIO WLD
 https://romania.1stream.online/o4/nat_geo_wild_hd_tr/mono.m3u8?token=68a7febf0db3ae7b299b10de0e0dbbb3bd42adfc
-#EXTINF:-1 tvg-name="NATGIO WLD" http-user-agent="SSUserAgent",NATGIO WLD
-https://one.st23.lol/hls/natgeowild/index.m3u8
-#EXTINF:-1 tvg-name="LOCA-24s" http-user-agent="googleusercontent",LOCA-24s
-https://cors.proxy.prometko.si/http://65.108.239.207/bspremier1/index.m3u8
-#EXTINF:-1 tvg-name="LOCA-24s" http-user-agent="googleusercontent",LOCA-24s
+#EXTINF:-1 tvg-name="LOCA-24s" http-user-agent="VARSports/0.4.2",LOCA-24s
+https://bc4streamserver.site/premiere/mono.m3u8
+#EXTINF:-1 tvg-name="LOCA-24s" http-user-agent="VARSports/0.4.2",LOCA-24s
 https://cors.ixigo.es/https://tv.arectv29.sbs/live/sinemaaksiyon2.m3u8
-#EXTINF:-1 tvg-name="LOCA-24s" http-user-agent="googleusercontent",LOCA-24s
+#EXTINF:-1 tvg-name="LOCA-24s" http-user-agent="VARSports/0.4.2",LOCA-24s
+https://bc4streamserver.site/series4/mono.m3u8
+#EXTINF:-1 tvg-name="LOCA-24s" http-user-agent="VARSports/0.4.2",LOCA-24s
 https://cors.inspireui.com/https://s1.bunnycdn7581.xyz/cdn/bpremier.m3u8
-#EXTINF:-1 tvg-name="LOCA-24s" http-user-agent="googleusercontent",LOCA-24s
-https://cors.proxy.prometko.si/http://65.108.239.207/bsstars/index.m3u8?token=WbvG4CpE9S4KI8vmXLtsQw&tms=1771162595
 #EXTINF:-1 tvg-name="LOCA-24sA" http-user-agent="com.dsmart.go.android/3.5.12",LOCA-24sA
 https://bydenesene.site/dgo/haper.m3u8?id=22895
 #EXTINF:-1 tvg-name="LOCA-24sA" http-user-agent="com.dsmart.go.android/3.5.12",LOCA-24sA
 https://cors.ixigo.es/https://tv.arectv29.sbs/live/mvturk.m3u8
-#EXTINF:-1 tvg-name="SİNE PR" http-user-agent="googleusercontent",SİNE PR
+#EXTINF:-1 tvg-name="SİNE PR" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/79.0",SİNE PR
 https://corsanywhere.devops.codeforafrica.org/http://463758a0.ucomist.net/iptv/v4zvp6g52hvxde/6877/index.m3u8
-#EXTINF:-1 tvg-name="SİNE PR" http-user-agent="googleusercontent",SİNE PR
-https://cors.proxy.prometko.si/https://65.108.239.207/sinemaaksiyon2/index.m3u8
+#EXTINF:-1 tvg-name="SİNE PR" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/79.0",SİNE PR
+https://mahmutabi.qzz.io/images/7c2b7cdc-640d-4c94-8ab2-fd985d3634a3/stream.m3u8
 #EXTINF:-1 tvg-name="SİNE MV" http-user-agent="ExoPlayerDemo/1.14 (Linux;Android 10) ExoPlayerLib/1.5.11",SİNE MV
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="SİNE FX" http-user-agent="Mozilla/5.0",SİNE FX
@@ -42,9 +42,9 @@ https://saran-live.ercdn.net/fx/index.m3u8?st=uo_tiDvIzeRrTIyZ402B9g&e=173827843
 #EXTINF:-1 tvg-name="SİNE TB" http-user-agent="raccoon.com/9.8 (Linux;Android 14) AndroidXMedia3/1.1.1",SİNE TB
 http://babacanlar9.xyz/index1.php?ch=sinema1001hd
 #EXTINF:-1 tvg-name="SİNE TB" http-user-agent="raccoon.com/9.8 (Linux;Android 14) AndroidXMedia3/1.1.1",SİNE TB
-https://d-live.mxrcdn.xyz/hls/sinemayerlihd.m3u8
-#EXTINF:-1 tvg-name="SİNE TB" http-user-agent="raccoon.com/9.8 (Linux;Android 14) AndroidXMedia3/1.1.1",SİNE TB
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
+#EXTINF:-1 tvg-name="SİNE TB" http-user-agent="raccoon.com/9.8 (Linux;Android 14) AndroidXMedia3/1.1.1",SİNE TB
+https://d-live.mxrcdn.xyz/hls/sinemayerlihd.m3u8
 #EXTINF:-1 tvg-name="Match Boets HD" http-user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/24.0 Chrome/117.0.0.0 Mobile Safari/537.36",Match Boets HD
 https://href.li/?
 #EXTINF:-1 tvg-name="➡️DÖVİZ+ALTIN⬅️" http-user-agent="Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre",➡️DÖVİZ+ALTIN⬅️
@@ -62,61 +62,61 @@ https://metvmetv03.lxi.be/vavoo/vavoo.php?country=Turkey
 #EXTINF:-1 tvg-name="ULUSAL TV LER 2" http-user-agent="BlackBerry8320/4.5.0.188 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/100",ULUSAL TV LER 2
 https://tv.canlitv.vip/kategori/ulusal
 #EXTINF:-1 tvg-name="CANLI MAC VP" http-user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/30.0 Chrome/143.0.0.0 Mobile Safari/537.36",CANLI MAC VP
+https://bit.ly/canl%c4%b1tvroyal
+#EXTINF:-1 tvg-name="CANLI MAC VP" http-user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/30.0 Chrome/143.0.0.0 Mobile Safari/537.36",CANLI MAC VP
 https://extratv8.com/
 #EXTINF:-1 tvg-name="CANLI MAC VP" http-user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/30.0 Chrome/143.0.0.0 Mobile Safari/537.36",CANLI MAC VP
 https://hojatv7.com/
 #EXTINF:-1 tvg-name="CANLI MAC VP" http-user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/30.0 Chrome/143.0.0.0 Mobile Safari/537.36",CANLI MAC VP
-https://zirveyonlendir.xyz/slotintv
-#EXTINF:-1 tvg-name="CANLI MAC VP" http-user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/30.0 Chrome/143.0.0.0 Mobile Safari/537.36",CANLI MAC VP
 https://www.bahistv29.com/
 #EXTINF:-1 tvg-name="CANLI MAC VP" http-user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/30.0 Chrome/143.0.0.0 Mobile Safari/537.36",CANLI MAC VP
-https://bit.ly/canl%c4%b1tvroyal
+https://zirveyonlendir.xyz/slotintv
 #EXTINF:-1 tvg-name="MAC SAATİ.VP" http-user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/30.0 Chrome/143.0.0.0 Mobile Safari/537.36",MAC SAATİ.VP
 http://bossabit.sbs/play.html?b=1&_1=7d5ab03c6a5ff8ad7f.pages.dev&_2=f6e33e69e0fdec0a7780e174f3c8b2c2&_3=777
 #EXTINF:-1 tvg-name="MAC SAATİ.VP" http-user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/30.0 Chrome/143.0.0.0 Mobile Safari/537.36",MAC SAATİ.VP
 https://raw.githubusercontent.com/zankyu1w0/xorak/refs/heads/main/yula/ceydub1.m3u8
 #EXTINF:-1 tvg-name="MAC-SAATİ VP" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",MAC-SAATİ VP
-https://raw.githubusercontent.com/zankyu1w0/xorak/refs/heads/main/yula/ceydub1.m3u8
-#EXTINF:-1 tvg-name="MAC-SAATİ VP" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",MAC-SAATİ VP
-https://css.d6e3eds5e065t5.help//beyin1/tracks-v1a1/mono.m3u8
+https://css.d6e3ess6e065r5.help//beyin1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="MAC-SAATİ VP" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",MAC-SAATİ VP
 https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams3/bein-sports-1.m3u8
+#EXTINF:-1 tvg-name="MAC-SAATİ VP" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",MAC-SAATİ VP
+https://raw.githubusercontent.com/zankyu1w0/xorak/refs/heads/main/yula/ceydub1.m3u8
 #EXTINF:-1 tvg-name="MAC SAATİ VP" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",MAC SAATİ VP
-https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/trbeinsports1.m3u8
+https://anthology-live.duckdns.org/live/beinsports1.m3u8?username=anthology&password=falsisdevwashere&source=taraftarium
 #EXTINF:-1 tvg-name="MAC SAATİ VP" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",MAC SAATİ VP
 https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams/stream_zirve.m3u8
 #EXTINF:-1 tvg-name="MAC SAATİ VP" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",MAC SAATİ VP
-https://anthology-live.duckdns.org/live/beinsports1.m3u8?username=anthology&password=falsisdevwashere&source=taraftarium
+https://raw.githubusercontent.com/kadirsener1/247/refs/heads/main/cdnlive/trbeinsports1.m3u8
 #EXTINF:-1 tvg-name="MAC SAATİ VP" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/79.0",MAC SAATİ VP
-https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams2/stream_androstreamlivebs1.m3u8
+https://andro.evrenesoglu237.click/checklist/batutest.m3u8
 #EXTINF:-1 tvg-name="MAC SAATİ VP" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/79.0",MAC SAATİ VP
 https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams2/stream_androstreamlivebiraz1.m3u8
 #EXTINF:-1 tvg-name="MAC SAATİ VP" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/79.0",MAC SAATİ VP
-https://andro.evrenesoglu235.click/checklist/batutest.m3u8
+https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams2/stream_androstreamlivebs1.m3u8
 #EXTINF:-1 tvg-name="BEİN SPOR 2" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/79.0",BEİN SPOR 2
 https://cdniptvpotok.com/player/ontvplayerjs.html?file=https://cdn2.freednsserc.xyz/assets/7.js?.m3u8
 #EXTINF:-1 tvg-name="BEİNSPORT3" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/79.0",BEİNSPORT3
-https://carry-cors.ulam.tech/
+https://andro.evrenesoglu237.click/checklist/androstreamlivebs3.m3u8
 #EXTINF:-1 tvg-name="BEİNSPORT3" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/79.0",BEİNSPORT3
-https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams2/stream_androstreamlivebs3.m3u8
+https://carry-cors.ulam.tech/
 #EXTINF:-1 tvg-name="BEİNSPORT4" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/79.0",BEİNSPORT4
-https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams2/stream_androstreamlivebs4.m3u8
+https://andro.evrenesoglu237.click/checklist/androstreamlivebs4.m3u8
 #EXTINF:-1 tvg-name="BEİNMAX 1" http-user-agent="Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre",BEİNMAX 1
-https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams2/stream_androstreamlivebsm1.m3u8
+https://andro.evrenesoglu237.click/checklist/androstreamlivebsm1.m3u8
 #EXTINF:-1 tvg-name="BEİNMAX 2" http-user-agent="Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre",BEİNMAX 2
-https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams2/stream_androstreamlivebsm2.m3u8
+https://andro.evrenesoglu237.click/checklist/androstreamlivebsm2.m3u8
 #EXTINF:-1 tvg-name="BEİNMAX 2" http-user-agent="Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre",BEİNMAX 2
 https://cors.zonos.com/https://oh.mevzuhls24.cfd/yayinbm2.m3u8
 #EXTINF:-1 tvg-name="TİVİBU SPOR 1" http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-G991B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36",TİVİBU SPOR 1
-https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams2/stream_androstreamlivets1.m3u8
+https://andro.evrenesoglu237.click/checklist/androstreamlivets1.m3u8
 #EXTINF:-1 tvg-name="TİVİBU SPOR 2" http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-G991B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36",TİVİBU SPOR 2
-https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams2/stream_androstreamlivets2.m3u8
+https://andro.evrenesoglu237.click/checklist/androstreamlivets2.m3u8
 #EXTINF:-1 tvg-name="TİVİBU SPOR 2" http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-G991B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36",TİVİBU SPOR 2
 https://raw.githubusercontent.com/zankyu1w0/xorak/refs/heads/main/emu/androstreamlivets2.m3u8
 #EXTINF:-1 tvg-name="S SPORT" http-user-agent="Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-G988B) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/19.0 Chrome/102.0.5005.125 Mobile Safari/537.36",S SPORT
-https://v5.mobilyayinim.cc/ssport1/index.m3u8
-#EXTINF:-1 tvg-name="S SPORT" http-user-agent="Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-G988B) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/19.0 Chrome/102.0.5005.125 Mobile Safari/537.36",S SPORT
 https://srvccc.the1517three.xyz/kaynakstreamradarco/25/strmrdr.m3u8
+#EXTINF:-1 tvg-name="S SPORT" http-user-agent="Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-G988B) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/19.0 Chrome/102.0.5005.125 Mobile Safari/537.36",S SPORT
+https://v5.mobilyayinim.cc/ssport1/index.m3u8
 #EXTINF:-1 tvg-name="S SPORT 2" http-user-agent="Mozilla/5.0 (Linux; Android 9; CLT-L09) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/10.1 Chrome/71.0.3578.99 Mobile Safari/537.36",S SPORT 2
 https://v5.mobilyayinim.cc/ssport2/index.m3u8
 #EXTINF:-1 tvg-name="A.SPOR HD" http-user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/30.0 Chrome/143.0.0.0 Mobile Safari/537.36",A.SPOR HD
@@ -128,23 +128,23 @@ https://srvccc.fish91826twenty.ga/kaynakstreamradarco/60/naxi/caxi.m3u8
 #EXTINF:-1 tvg-name="SMART SPOR" http-user-agent="Mozilla/5.0 (Linux; Android 9; CLT-L09) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/10.1 Chrome/71.0.3578.99 Mobile Safari/537.36",SMART SPOR
 https://v2.2taraf.cfd/smartspor/index.m3u8
 #EXTINF:-1 tvg-name="CANLI MAC VP" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/79.0",CANLI MAC VP
+https://cirobahistv13.live/
+#EXTINF:-1 tvg-name="CANLI MAC VP" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/79.0",CANLI MAC VP
 https://giris.to/mariotv
-#EXTINF:-1 tvg-name="CANLI MAC VP" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/79.0",CANLI MAC VP
-https://zbahistv67.com/
-#EXTINF:-1 tvg-name="CANLI MAC VP" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/79.0",CANLI MAC VP
-https://t.ly/netbahistv
-#EXTINF:-1 tvg-name="CANLI MAC VP" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/79.0",CANLI MAC VP
-https://ragir.short.gy/betra-tv
 #EXTINF:-1 tvg-name="CANLI MAC VP" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/79.0",CANLI MAC VP
 https://hayditv633.live/
 #EXTINF:-1 tvg-name="CANLI MAC VP" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/79.0",CANLI MAC VP
+https://ragir.short.gy/betra-tv
+#EXTINF:-1 tvg-name="CANLI MAC VP" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/79.0",CANLI MAC VP
+https://t.ly/netbahistv
+#EXTINF:-1 tvg-name="CANLI MAC VP" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/79.0",CANLI MAC VP
 https://t.ly/nwrpr
 #EXTINF:-1 tvg-name="CANLI MAC VP" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/79.0",CANLI MAC VP
-https://cirobahistv13.live/
+https://zbahistv67.com/
+#EXTINF:-1 tvg-name="BEİNSPORT2" http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-G991B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36",BEİNSPORT2
+https://andro.evrenesoglu237.click/checklist/androstreamlivebs2.m3u8
 #EXTINF:-1 tvg-name="BEİNSPORT2" http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-G991B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36",BEİNSPORT2
 https://cors.gameskite.com/
-#EXTINF:-1 tvg-name="BEİNSPORT2" http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-G991B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36",BEİNSPORT2
-https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams3/bein-sports-2.m3u8
 #EXTINF:-1 tvg-name="BEİNSPORT2" http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-G991B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36",BEİNSPORT2
 https://cors.proxy.prometko.si/
 #EXTINF:-1 tvg-name="BEİNSPORT2" http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-G991B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36",BEİNSPORT2
@@ -152,9 +152,9 @@ https://cors.selfpromote.ro/
 #EXTINF:-1 tvg-name="FOX-Sports-1" http-user-agent="double_redirect",FOX-Sports-1
 https://ilovetoplay.xyz/
 #EXTINF:-1 tvg-name="FOX-Sports-1" http-user-agent="double_redirect",FOX-Sports-1
-https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
-#EXTINF:-1 tvg-name="FOX-Sports-1" http-user-agent="double_redirect",FOX-Sports-1
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-name="FOX-Sports-1" http-user-agent="double_redirect",FOX-Sports-1
+https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 #EXTINF:-1 tvg-name="Eleven Sports 1" http-user-agent="Mozilla/5.0 (Linux; Android 13; 22101316I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.105 Mobile Safari/537.36",Eleven Sports 1
 https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
 #EXTINF:-1 tvg-name="SPORTS STN" http-user-agent="Mozilla/5.0 Linux+Android+10+M2006C3MG+AppleWebKit/37.36+KHTML+like+Gecko+Chrome/103.0.5060.129+Mobile+Safari/537.36",SPORTS STN
@@ -175,8 +175,8 @@ https://dogus.daioncdn.net/dmax/dmax.m3u8?ce=3&app=5a02c599-d17e-4982-9b04-09093
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TGRT HD" http-user-agent="stagefright/1.2 (Linux;Android 14)",TGRT HD
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
-#EXTINF:-1 tvg-name="IDX HD" http-user-agent="SSUserAgent",IDX HD
-https://seep.eu.org/http://65.108.239.207/discs/index.m3u8
+#EXTINF:-1 tvg-name="IDX HD" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/79.0",IDX HD
+http://sharelink.anonimltc.workers.dev/g/ogcl6n.m3u8
 #EXTINF:-1 tvg-name="PORN STAR TV" http-user-agent="Toskiplayer/1.5",PORN STAR TV
 http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-name="PORN STAR TV" http-user-agent="Toskiplayer/1.5",PORN STAR TV
@@ -192,9 +192,9 @@ https://m.youtube.com/c/beINSPORTST%C3%BCrkiye/videos?view=0&sort=dd&shelf_id=0
 #EXTINF:-1 tvg-name="BABES HD TV" http-user-agent="Linux; Android 9; CLT-L09",BABES HD TV
 http://stream.mcquack.net/52/index.m3u8
 #EXTINF:-1 tvg-name="BRAZZERS TV" http-user-agent="iptvcoronakorbuna",BRAZZERS TV
-http://live.redtraffic.xyz/russian.m3u8
-#EXTINF:-1 tvg-name="BRAZZERS TV" http-user-agent="iptvcoronakorbuna",BRAZZERS TV
 http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-name="BRAZZERS TV" http-user-agent="iptvcoronakorbuna",BRAZZERS TV
+http://live.redtraffic.xyz/russian.m3u8
 #EXTINF:-1 tvg-name="GAY TV.",GAY TV.
 http://live.redtraffic.xyz/gay.m3u8
 #EXTINF:-1 tvg-name="BSX24 TV",BSX24 TV
@@ -208,11 +208,11 @@ https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 tvg-name="Sky-Sports-2" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36/",Sky-Sports-2
 https://iptv.prosto.tv/ch313/video.m3u8
 #EXTINF:-1 tvg-name="EURO SPOR 1" http-user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36",EURO SPOR 1
-https://srvcc.eglencelazim.xyz/kaynakstreamradarco/35/strmrdr.m3u8
+https://andro.evrenesoglu237.click/checklist/androstreamlivees1.m3u8
 #EXTINF:-1 tvg-name="EURO SPOR 1" http-user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36",EURO SPOR 1
-https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams2/stream_androstreamlivees1.m3u8
+https://srvcc.eglencelazim.xyz/kaynakstreamradarco/35/strmrdr.m3u8
 #EXTINF:-1 tvg-name="EURO SPOR 2" http-user-agent="Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre",EURO SPOR 2
-https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams2/stream_androstreamlivees2.m3u8
+https://andro.evrenesoglu235.click/checklist/androstreamlivees2.m3u8
 #EXTINF:-1 tvg-name="EURO SPOR 2" http-user-agent="Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre",EURO SPOR 2
 https://srvccc.olurmuya.xyz/kaynakstreamradarco/36/strmrdr.m3u8
 #EXTINF:-1 tvg-name="Belgesel__________________________________________",Belgesel__________________________________________
@@ -274,9 +274,9 @@ https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 #EXTINF:-1 tvg-name="SPOR TV HD" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101",SPOR TV HD
 https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor
 #EXTINF:-1 tvg-name="BT SPORT 1" http-user-agent="Mozila",BT SPORT 1
-https://bl.uma.media/live/485548/hls/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-name="BT SPORT 1" http-user-agent="Mozila",BT SPORT 1
 http://88.212.7.10/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1 tvg-name="BT SPORT 1" http-user-agent="Mozila",BT SPORT 1
+https://bl.uma.media/live/485548/hls/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-name="CANAL SPORT" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",CANAL SPORT
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="BT SPORT 2" http-user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36",BT SPORT 2
@@ -346,21 +346,21 @@ https://ddizimag.icu/platform/blutv
 #EXTINF:-1 tvg-name="BluTv Dizi VİP2" http-user-agent="Mozilla/5.0 (Windows Phone 10.0; Android 4.2.1; Xbox; Xbox One) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Mobile Safari/537.36 Edge/13.10586",BluTv Dizi VİP2
 https://dizipal102.cloud/
 #EXTINF:-1 tvg-name="S SPORT 1" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/79.0",S SPORT 1
-https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams2/stream_androstreamlivess1.m3u8
+https://andro.evrenesoglu237.click/checklist/androstreamlivess1.m3u8
 #EXTINF:-1 tvg-name="S SPORT 1" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/79.0",S SPORT 1
 https://andro.evrenesoglu57.click/checklist/androstreamlivess1.m3u8
 #EXTINF:-1 tvg-name="S SPORT 2" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/79.0",S SPORT 2
-https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams2/stream_androstreamlivess2.m3u8
+https://andro.evrenesoglu237.click/checklist/androstreamlivess2.m3u8
 #EXTINF:-1 tvg-name="SMART SPOR" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/79.0",SMART SPOR
-https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams2/stream_androstreamlivesm1.m3u8
+https://andro.evrenesoglu237.click/checklist/androstreamlivesm1.m3u8
 #EXTINF:-1 tvg-name="İndir",İndir
 https://www.shorturl.at/owBH4
 #EXTINF:-1 tvg-name="FIGHT BOX" http-user-agent="Mozilla/5.0 (Linux; Android 9; CLT-L09) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/10.2 Chrome/71.0.3578.99 Mobile Safari/537.36",FIGHT BOX
 https://href.li/?
 #EXTINF:-1 tvg-name="SALON 3" http-user-agent="googleusercontent",SALON 3
-https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="SALON 3" http-user-agent="googleusercontent",SALON 3
 https://cors.proxy.prometko.si/http://65.108.239.207/bsseries2/index.m3u8?token=WbvG4CpE9S4KI8vmXLtsQw&tms=1771162595
+#EXTINF:-1 tvg-name="SALON 3" http-user-agent="googleusercontent",SALON 3
+https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Sx",Sx
 https://t.19upsexer.com/
 #EXTINF:-1 tvg-name="Dünya tv" http-user-agent="Version/4.0 Chrome/76.0.3809.132 Mobile Safari/537.36 Vinebre",Dünya tv
@@ -368,17 +368,17 @@ https://tv.sarcheshmeh.us/m/name=Welcome
 #EXTINF:-1 tvg-name="TARİH TV" http-user-agent="Mozilla/5.0",TARİH TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/belgesel-tv/playlist.m3u8
 #EXTINF:-1 tvg-name="LoveNtR" http-user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36",LoveNtR
-https://d18dyiwu97wm6q.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/lovenature4k2-prod/890be9ae-fb8a-4b1f-b351-968a2a5a7a4d/0.m3u8
+http://sharelink.anonimltc.workers.dev/g/shc4go.m3u8
 #EXTINF:-1 tvg-name="LoveNtR" http-user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36",LoveNtR
-http://sharelink.anonimltc.workers.dev/g/0xs1ew.m3u8
+https://d18dyiwu97wm6q.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/lovenature4k2-prod/890be9ae-fb8a-4b1f-b351-968a2a5a7a4d/0.m3u8
 #EXTINF:-1 tvg-name="M TURK TV" http-user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36",M TURK TV
 http://45.88.139.156/yt1/naturtime.m3u8
 #EXTINF:-1 tvg-name="LOCA-1" http-user-agent="Player (Linux; Android 16)",LOCA-1
 https://v2.catcast.tv/content/50960/seg-27708705-v1-a1/index.m3u8
 #EXTINF:-1 tvg-name="LOCA-2" http-user-agent="kanal.f/9.8 (Linux;Android 16) AndroidXMedia3/1.1.1",LOCA-2
 https://a8.radyotelekom.com.tr:3232/stream/play.m3u8
-#EXTINF:-1 tvg-name="LOCA-3" http-user-agent="googleusercontent",LOCA-3
-http://45.88.139.156:80/d/live/out.m3u8
+#EXTINF:-1 tvg-name="LOCA-3" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/79.0",LOCA-3
+https://mahmutabi.qzz.io/images/ch_yflkmc95u/stream.m3u8
 #EXTINF:-1 tvg-name="LOCA-S" http-user-agent="Player (Linux; Android 17)",LOCA-S
 https://v2.catcast.tv/content/50953/seg-27708705-v1-a1/index.m3u8
 #EXTINF:-1 tvg-name="TABİ SPOR" http-user-agent="Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre",TABİ SPOR
@@ -390,15 +390,15 @@ http://mr8bv4kl1nq7sh9tw2xp5zj6g.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 tvg-name="TABİ SPOR 3" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)' -H 'Proxy-Connection: Keep-Alive'",TABİ SPOR 3
 http://mr4vl7nq2sh9tw5xp1zk3gj8b.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 tvg-name="TABİ SPOR 4" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)' -H 'Proxy-Connection: Keep-Alive'",TABİ SPOR 4
+https://livetvfree.ga/golgetv/golgech+.m3u8?id=51309
+#EXTINF:-1 tvg-name="TABİ SPOR 4" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)' -H 'Proxy-Connection: Keep-Alive'",TABİ SPOR 4
 https://sh7tq2nw5mr1vl9xp4zk3gj8k.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TABİ SPOR 4" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)' -H 'Proxy-Connection: Keep-Alive'",TABİ SPOR 4
 https://srvccc.olurmuya.xyz/kaynakstreamradarco/7/strmrdr.m3u8
-#EXTINF:-1 tvg-name="TABİ SPOR 4" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)' -H 'Proxy-Connection: Keep-Alive'",TABİ SPOR 4
-https://livetvfree.ga/golgetv/golgech+.m3u8?id=51309
-#EXTINF:-1 tvg-name="TABİ SPOR 5" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/79.0",TABİ SPOR 5
-https://vl2nq8sh4tw1mr7xp5zk9gj3y.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TABİ SPOR 5" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/79.0",TABİ SPOR 5
 https://srvc.susturucuonbinlira.xyz/kaynakstreamradarco/11/strmrdr.m3u8
+#EXTINF:-1 tvg-name="TABİ SPOR 5" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/79.0",TABİ SPOR 5
+https://vl2nq8sh4tw1mr7xp5zk9gj3y.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="BBC Earth",BBC Earth
 https://bydenesene.site/vendor/css/dgo/haper.m3u8?id=11896
 #EXTINF:-1 tvg-name="Discovery  C",Discovery  C
@@ -446,9 +446,9 @@ https://www.canlitv.you/tr
 #EXTINF:-1 tvg-name="Turkpron" http-user-agent="Mozilla/5.0 (Linux; Android 16; SM-S928B Build/BP2A.250605.031.A3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/142.0.7444.174 Mobile Safari/537.36 Vinebre",Turkpron
 https://arenamoviez.online/evo/
 #EXTINF:-1 tvg-name="SON FİLMLER" http-user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/24.0 Chrome/117.0.0.0 Mobile Safari/537.36",SON FİLMLER
-https://www.hdfilmcehennemi2.biz/
-#EXTINF:-1 tvg-name="SON FİLMLER" http-user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/24.0 Chrome/117.0.0.0 Mobile Safari/537.36",SON FİLMLER
 https://sinemaizle.org/film
+#EXTINF:-1 tvg-name="SON FİLMLER" http-user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/24.0 Chrome/117.0.0.0 Mobile Safari/537.36",SON FİLMLER
+https://www.hdfilmcehennemi2.biz/
 #EXTINF:-1 tvg-name="FİLM İZLE 1" http-user-agent="Mozilla/5.0 (Windows Phone 10.0; Android 4.2.1; Xbox; Xbox One) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Mobile Safari/537.36 Edge/13.10586",FİLM İZLE 1
 https://www.hdfilmcehennemi.land/film/
 #EXTINF:-1 tvg-name="YERLİ FİLMLERİ 1" http-user-agent="Mozilla/5.0 (Windows Phone 10.0; Android 4.2.1; Xbox; Xbox One) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Mobile Safari/537.36 Edge/13.10586",YERLİ FİLMLERİ 1
@@ -476,6 +476,8 @@ https://raw.githubusercontent.com/Zankyu1w0/xorak/refs/heads/main/Emu/androstrea
 #EXTINF:-1 tvg-name="HISTORIY" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/79.0",HISTORIY
 https://vizon5.cinemax6.com:3656/stream/play.m3u8
 #EXTINF:-1 tvg-name="BBCE HD" http-user-agent="SSUserAgent",BBCE HD
+http://exchange.cdnrdn.com:9090/TR-N/BBC_EARTH_HD-tr/tracks-v1a1/mono.m3u8?token=filbox_oztnvqmfK83KS
+#EXTINF:-1 tvg-name="BBCE HD" http-user-agent="SSUserAgent",BBCE HD
 https://one.st23.lol/hls/bbc/index.m3u8
 #EXTINF:-1 tvg-name="Viasat Histry" http-user-agent="googleusercontent",Viasat Histry
 https://cors.proxy.prometko.si/http://65.108.239.207:80/viasathistory/index.m3u8
@@ -484,7 +486,7 @@ https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00
 #EXTINF:-1 tvg-name="SİNE A1" http-user-agent="Mozilla/5.0 (Windows Phone 10.0; Android 4.2.1; Xbox; Xbox One) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Mobile Safari/537.36 Edge/13.10586",SİNE A1
 https://blcco.linkip.org/live/550_.m3u8
 #EXTINF:-1 tvg-name="SİNE A2" http-user-agent="Mozilla/5.0 (Windows Phone 10.0; Android 4.2.1; Xbox; Xbox One) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Mobile Safari/537.36 Edge/13.10586",SİNE A2
-https://ulduztv.dunyanin-yabancisi.workers.dev/live.m3u8
+https://catcast.ismailturret.workers.dev/playercinema-marvel.m3u8
 #EXTINF:-1 tvg-name="SALON 1" http-user-agent="googleusercontent",SALON 1
 https://cors.proxy.prometko.si/http://65.108.239.207/mvturk/index.m3u8?token=WbvG4CpE9S4KI8vmXLtsQw&tms=1771162595
 #EXTINF:-1 tvg-name="SALON 2" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/79.0",SALON 2
@@ -506,9 +508,9 @@ https://sinemaizle.org/dizi/yuzuklerin-efendisi-guc-yuzukleri
 #EXTINF:-1 tvg-name="Gameof" http-user-agent="Mozilla/5.0 (Windows Phone 10.0; Android 4.2.1; Xbox; Xbox One) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Mobile Safari/537.36 Edge/13.10586",Gameof
 https://dizilab.to/dizi/game-of-thrones-hd7/
 #EXTINF:-1 tvg-name="EXXEN DİZİ VP2" http-user-agent="Mozilla/5.0 (Windows Phone 10.0; Android 4.2.1; Xbox; Xbox One) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Mobile Safari/537.36 Edge/13.10586",EXXEN DİZİ VP2
-https://www.dizigom.news/platform/exxen
-#EXTINF:-1 tvg-name="EXXEN DİZİ VP2" http-user-agent="Mozilla/5.0 (Windows Phone 10.0; Android 4.2.1; Xbox; Xbox One) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Mobile Safari/537.36 Edge/13.10586",EXXEN DİZİ VP2
 https://arenamovies.online/palx/
+#EXTINF:-1 tvg-name="EXXEN DİZİ VP2" http-user-agent="Mozilla/5.0 (Windows Phone 10.0; Android 4.2.1; Xbox; Xbox One) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Mobile Safari/537.36 Edge/13.10586",EXXEN DİZİ VP2
+https://www.dizigom.news/platform/exxen
 #EXTINF:-1 tvg-name="Vilp dizi pal" http-user-agent="Mozilla/5.0 (Windows Phone 10.0; Android 4.2.1; Xbox; Xbox One) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Mobile Safari/537.36 Edge/13.10586",Vilp dizi pal
 https://ddizimag.com/diziler
 #EXTINF:-1 tvg-name="BluTv Dizi VİP1" http-user-agent="Mozilla/5.0 (Windows Phone 10.0; Android 4.2.1; Xbox; Xbox One) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Mobile Safari/537.36 Edge/13.10586",BluTv Dizi VİP1
@@ -525,5 +527,3 @@ https://www.dizibox.live/diziler/westworld-hd/#episodes
 https://www.hdfilmcehennemi2.biz/dizi-izle/
 #EXTINF:-1 tvg-name="Valking" http-user-agent="Version/4.0 Chrome/76.0.3809.132 Mobile Safari/537.36 Vinebre",Valking
 https://www.dizigom.news/diziler/the-walking-dead/
-#EXTINF:-1 tvg-name="Y" http-user-agent="Version/4.0 Chrome/76.0.3809.132 Mobile Safari/537.36 Vinebre",Y
-https://ddizipal.icu/dizi/house-of-the-dragon
