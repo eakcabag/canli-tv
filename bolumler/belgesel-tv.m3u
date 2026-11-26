@@ -31,7 +31,7 @@ http://sharelink.anonimltc.workers.dev/g/ogcl6n.m3u8
 http://45.88.139.156/yt1/naturtime.m3u8
 
 #EXTINF:-1 tvg-id="historiy" tvg-name="HISTORIY" tvg-lang="tr" group-title="BELGESEL TV",HISTORIY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/79.0
+#EXTVLCOPT:http-user-agent=i.ptv2/9.8 (Linux;Android 17) AndroidXMedia3/1.4.1
 https://vizon5.cinemax6.com:3656/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="documax" tvg-name="DOCUMAX" tvg-lang="tr" group-title="BELGESEL TV",DOCUMAX

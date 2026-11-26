@@ -16,6 +16,13 @@ from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent
 
+ADULT_FILTER_RE = re.compile(
+    r"(adult|\+18|18\+|porn|xxx|erotik|erotic|brazzer|playboy|penthouse|hustler|"
+    r"dorcel|redlight|vivid|beate\s*uhse|babes\s*hd|gay\s*tv|bsx24|superone|"
+    r"redtraffic\.xyz|test_erox|test_extasy|test_brazzers|19upsexer|findmy\.cam|\bsex\b)",
+    re.I,
+)
+
 # Bilinen sağlam CDN yedekleri
 BACKUP_MAP = {
     # beIN Sports Alemdar CDN Yedekleri
@@ -114,6 +121,9 @@ def update_playlist():
             curr_meta = line
         elif line.startswith("http"):
             if curr_meta:
+                if ADULT_FILTER_RE.search(curr_meta + " " + line):
+                    curr_meta = None
+                    continue
                 # Eski andro domainini otomatik canlı domain ile güncelle
                 if "andro.evrenesoglu" in line:
                     line = re.sub(r"andro\.evrenesoglu\d+\.click", live_domain, line)
