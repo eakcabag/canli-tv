@@ -16,15 +16,15 @@ https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/stream
 
 #EXTINF:-1 tvg-id="bei-nsport4" tvg-name="BEİNSPORT4" tvg-lang="tr" group-title="SÜPER LİG",BEİNSPORT4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/79.0
-https://andro.evrenesoglu237.click/checklist/androstreamlivebs4.m3u8
+https://andro.evrenesoglu245.click/checklist/androstreamlivebs4.m3u8
 
 #EXTINF:-1 tvg-id="bei-nmax-1" tvg-name="BEİNMAX 1" tvg-lang="tr" group-title="SÜPER LİG",BEİNMAX 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre
-https://andro.evrenesoglu237.click/checklist/androstreamlivebsm1.m3u8
+https://andro.evrenesoglu245.click/checklist/androstreamlivebsm1.m3u8
 
 #EXTINF:-1 tvg-id="ti-vi-bu-spor-1" tvg-name="TİVİBU SPOR 1" tvg-lang="tr" group-title="SÜPER LİG",TİVİBU SPOR 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-G991B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36
-https://andro.evrenesoglu237.click/checklist/androstreamlivets1.m3u8
+https://andro.evrenesoglu245.click/checklist/androstreamlivets1.m3u8
 
 #EXTINF:-1 tvg-id="spor-tv-hd" tvg-name="SPOR TV HD" tvg-lang="tr" group-title="SÜPER LİG",SPOR TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101
@@ -36,11 +36,11 @@ https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
 
 #EXTINF:-1 tvg-id="s-sport-2" tvg-name="S SPORT 2" tvg-lang="tr" group-title="SÜPER LİG",S SPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/79.0
-https://andro.evrenesoglu237.click/checklist/androstreamlivess2.m3u8
+https://andro.evrenesoglu245.click/checklist/androstreamlivess2.m3u8
 
 #EXTINF:-1 tvg-id="smart-spor" tvg-name="SMART SPOR" tvg-lang="tr" group-title="SÜPER LİG",SMART SPOR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/79.0
-https://andro.evrenesoglu237.click/checklist/androstreamlivesm1.m3u8
+https://andro.evrenesoglu245.click/checklist/androstreamlivesm1.m3u8
 
 #EXTINF:-1 tvg-id="tabi-spor" tvg-name="TABİ SPOR" tvg-lang="tr" group-title="SÜPER LİG",TABİ SPOR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre

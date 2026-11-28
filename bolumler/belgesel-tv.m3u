@@ -22,10 +22,6 @@ https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 14)
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
 
-#EXTINF:-1 tvg-id="idx-hd" tvg-name="IDX HD" tvg-lang="tr" group-title="BELGESEL TV",IDX HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/79.0
-http://sharelink.anonimltc.workers.dev/g/ogcl6n.m3u8
-
 #EXTINF:-1 tvg-id="m-turk-tv" tvg-name="M TURK TV" tvg-lang="tr" group-title="BELGESEL TV",M TURK TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
 http://45.88.139.156/yt1/naturtime.m3u8

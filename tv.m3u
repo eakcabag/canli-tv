@@ -275,9 +275,6 @@ https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 #EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-name="TGRT Haber" tvg-logo="https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tgrthaber.png" group-title="🇹🇷 HABER KANALLARI",TGRT Haber HD
 https://canli.tgrthaber.com/tgrt.m3u8
 
-#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="TRT Haber" tvg-logo="https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trthaber.png" group-title="🇹🇷 HABER KANALLARI",TRT Haber HD
-https://tv-trthaber.medya.trt.com.tr/master.m3u8
-
 #EXTINF:-1 tvg-id="TV100.tr" tvg-name="TV100" tvg-logo="https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tv100.png" group-title="🇹🇷 HABER KANALLARI",TV100 HD
 https://tv.ensonhaber.com/tv100/tv100.m3u8
 

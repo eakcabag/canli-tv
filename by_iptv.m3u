@@ -80,23 +80,23 @@ https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/stream
 
 #EXTINF:-1 tvg-id="bei-nsport4" tvg-name="BEİNSPORT4" tvg-lang="tr" group-title="SÜPER LİG",BEİNSPORT4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/79.0
-https://andro.evrenesoglu237.click/checklist/androstreamlivebs4.m3u8
+https://andro.evrenesoglu245.click/checklist/androstreamlivebs4.m3u8
 
 #EXTINF:-1 tvg-id="bei-nmax-1" tvg-name="BEİNMAX 1" tvg-lang="tr" group-title="SÜPER LİG",BEİNMAX 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre
-https://andro.evrenesoglu237.click/checklist/androstreamlivebsm1.m3u8
+https://andro.evrenesoglu245.click/checklist/androstreamlivebsm1.m3u8
 
 #EXTINF:-1 tvg-id="ti-vi-bu-spor-1" tvg-name="TİVİBU SPOR 1" tvg-lang="tr" group-title="SÜPER LİG",TİVİBU SPOR 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-G991B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36
-https://andro.evrenesoglu237.click/checklist/androstreamlivets1.m3u8
+https://andro.evrenesoglu245.click/checklist/androstreamlivets1.m3u8
 
 #EXTINF:-1 tvg-id="s-sport-2" tvg-name="S SPORT 2" tvg-lang="tr" group-title="SÜPER LİG",S SPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/79.0
-https://andro.evrenesoglu237.click/checklist/androstreamlivess2.m3u8
+https://andro.evrenesoglu245.click/checklist/androstreamlivess2.m3u8
 
 #EXTINF:-1 tvg-id="smart-spor" tvg-name="SMART SPOR" tvg-lang="tr" group-title="SÜPER LİG",SMART SPOR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/79.0
-https://andro.evrenesoglu237.click/checklist/androstreamlivesm1.m3u8
+https://andro.evrenesoglu245.click/checklist/androstreamlivesm1.m3u8
 
 #EXTINF:-1 tvg-id="kanal" tvg-name="kanal" tvg-lang="tr" group-title="TV+RADYO",kanal
 #EXTVLCOPT:http-user-agent=neo.tv13/9.8 (Linux;Android 16) AndroidXMedia3/1.1.1
@@ -140,7 +140,7 @@ https://v2.catcast.tv/content/50960/seg-27708705-v1-a1/index.m3u8
 
 #EXTINF:-1 tvg-id="loca-2" tvg-name="LOCA-2" tvg-lang="tr" group-title="SİNEMA TV",LOCA-2
 #EXTVLCOPT:http-user-agent=kanal.f/9.8 (Linux;Android 16) AndroidXMedia3/1.1.1
-https://a8.radyotelekom.com.tr:3232/stream/play.m3u8
+https://mahmutabi.qzz.io/images/ch_40d42yzpu/stream.m3u8
 
 #EXTINF:-1 tvg-id="loca-3" tvg-name="LOCA-3" tvg-lang="tr" group-title="SİNEMA TV",LOCA-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/79.0
@@ -185,10 +185,6 @@ https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="tgrt-hd" tvg-name="TGRT HD" tvg-lang="tr" group-title="BELGESEL TV",TGRT HD
 #EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 14)
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
-
-#EXTINF:-1 tvg-id="idx-hd" tvg-name="IDX HD" tvg-lang="tr" group-title="BELGESEL TV",IDX HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/79.0
-http://sharelink.anonimltc.workers.dev/g/ogcl6n.m3u8
 
 #EXTINF:-1 tvg-id="m-turk-tv" tvg-name="M TURK TV" tvg-lang="tr" group-title="BELGESEL TV",M TURK TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36

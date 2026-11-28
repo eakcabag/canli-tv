@@ -16,7 +16,7 @@ https://v2.catcast.tv/content/50960/seg-27708705-v1-a1/index.m3u8
 
 #EXTINF:-1 tvg-id="loca-2" tvg-name="LOCA-2" tvg-lang="tr" group-title="SİNEMA TV",LOCA-2
 #EXTVLCOPT:http-user-agent=kanal.f/9.8 (Linux;Android 16) AndroidXMedia3/1.1.1
-https://a8.radyotelekom.com.tr:3232/stream/play.m3u8
+https://mahmutabi.qzz.io/images/ch_40d42yzpu/stream.m3u8
 
 #EXTINF:-1 tvg-id="loca-3" tvg-name="LOCA-3" tvg-lang="tr" group-title="SİNEMA TV",LOCA-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/79.0
