@@ -12,7 +12,8 @@ Kumanda ile kolay yazabilmeniz için hem **kısa linkler** hem de doğrudan **Gi
 
 | Liste Türü | Kısa TV Linki (Kumanda için) | Doğrudan GitHub Raw URL | Kanal Sayısı |
 | :--- | :--- | :--- | :--- |
-| 🌟 **Tüm Kanallar (VIP)** | `https://tinyurl.com/27e82c3d` | `https://raw.githubusercontent.com/eakcabag/canli-tv/main/tv.m3u` | ~130 Kanal |
+| 📦 **Tek Paket (Tüm Kaynaklar)** | — | `https://raw.githubusercontent.com/eakcabag/canli-tv/main/paket.m3u` | ~200+ Akış |
+| 🌟 **Tüm Kanallar (VIP)** | `https://tinyurl.com/27e82c3d` | `https://raw.githubusercontent.com/eakcabag/canli-tv/main/tv.m3u` | ~121 Kanal |
 | ⚽ **Sadece VIP Spor** | `https://tinyurl.com/2bfwuqjm` | `https://raw.githubusercontent.com/eakcabag/canli-tv/main/spor.m3u` | ~53 Kanal |
 | 🇹🇷 **Ulusal & Haber** | `https://tinyurl.com/24klajrm` | `https://raw.githubusercontent.com/eakcabag/canli-tv/main/ulusal.m3u` | ~74 Kanal |
 

@@ -56,9 +56,10 @@ with open("/data/data/com.termux/files/home/canli-tv/by_iptv_full.m3u", "w", enc
 print(f"by_iptv_full.m3u yazildi ({(len(m)-1)//2} akis)")
 PY
 
-echo "📺 [3/3] Standart Canlı TV CDN listesi güncelleniyor ve GitHub'a pushlanıyor..."
+echo "📺 [3/3] Standart Canlı TV CDN listesi güncelleniyor, tek paket birleştiriliyor ve GitHub'a pushlanıyor..."
 cd ~/canli-tv
 python3 updater.py || true
+python3 merge_all.py || true
 
 git add .
 if ! git diff-index --quiet HEAD --; then
